@@ -1,1143 +1,1802 @@
 [
-  {
-    "uid": "7930441013",
-    "password": "4C914DAC741919E10B401A509EAC534A57F764CAF5062FE3B22325082CA2A1CD",
-    "account_id": "18320329633",
-    "name": "ARIYA_¹¹²⁴⁷³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930441472",
-    "password": "F07482DA73DC9B1979C7425F364D1BBB417F4BAF0262362F9731D9F454E7A338",
-    "account_id": "18320330225",
-    "name": "ARIYA_¹⁷³⁷⁸⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930441997",
-    "password": "15B9BEE9F5296B4A3450F6BADE09EE9380AFE117BE20ACF9FBFFAAFEA4104F7A",
-    "account_id": "18320331017",
-    "name": "ARIYA_¹³³⁸⁸⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930442616",
-    "password": "2B0008324FDCED096E0FABA31D5A4BBCD1464736296F6BC596F3DBCBB7453558",
-    "account_id": "18320331887",
-    "name": "ARIYA_¹⁹⁹⁶⁸⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930443257",
-    "password": "200F315EBB2B79875F35CF5A28BB1C4EB85D5C8B4C38FFAFD6593146163E18C4",
-    "account_id": "18320332841",
-    "name": "ARIYA_¹⁹⁵⁷⁵³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930443625",
-    "password": "F7C90C446ED80E29189995BA7069958644014E93E9BC4FF3C114D7BADD6F5EE1",
-    "account_id": "18320333437",
-    "name": "ARIYA_¹¹⁸³⁵⁴",
-    "region": "IND"
-  },
-  {
-    "uid": "7930443900",
-    "password": "59C737561F49D4462F2A4523FDBDDD09B9F2D1E4534875011A101291C5DB1DF9",
-    "account_id": "18320333971",
-    "name": "ARIYA_¹³⁹³⁷⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930444406",
-    "password": "112C846FEF63CADDE453D6B2C4843FE4EA83D6D924057DE867B43CFE7E67F65D",
-    "account_id": "18320334803",
-    "name": "ARIYA_¹⁵⁰⁴⁰¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930446194",
-    "password": "F9100F61BCD91C9E37B8375F6B534C31D2457D7B2A5A0794F07DDA7027899CC8",
-    "account_id": "18320336227",
-    "name": "ARIYA_¹⁸⁹⁷⁰⁷",
-    "region": "IND"
-  },
-  {
-    "uid": "7930446914",
-    "password": "237AF945AFFC69816B05F2E1EF99E72A0F5033DF0DC1953FAEF41C6648CFAF59",
-    "account_id": "18320337262",
-    "name": "ARIYA_¹⁰⁴⁸⁷⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930447330",
-    "password": "12F7F5D74D8E8EDEBA4124073D1CCFDBD0602AFB128384BA32D47871B17F036C",
-    "account_id": "18320337798",
-    "name": "ARIYA_¹⁵⁴⁴³⁴",
-    "region": "IND"
-  },
-  {
-    "uid": "7930448040",
-    "password": "92E6ED1EB44895C48865A3F0CA41FC3530A50FDB277A9F03F0015BCCE619327A",
-    "account_id": "18320338770",
-    "name": "ARIYA_¹⁴⁸⁰⁹⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930448568",
-    "password": "3B26406591B447BF2B639003C1F5F048E6D76B72A8D862DC0989A884F2EA136E",
-    "account_id": "18320339509",
-    "name": "ARIYA_¹³⁶⁰⁹⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930448936",
-    "password": "2521AD6C776FAE167E52DE4742193C1928CFD2D54C1C9B5BE9FDB6044777E2A7",
-    "account_id": "18320340069",
-    "name": "ARIYA_¹⁰²⁷⁵¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930449530",
-    "password": "50D867B7EA5A3C2846264FC5EFB05807673C0BD91FC571DD81CE60F0F3F4D27F",
-    "account_id": "18320340953",
-    "name": "ARIYA_¹¹¹⁸¹⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930449873",
-    "password": "93BFA200E53809DE9B283EDD132994153F337ECEB1CBFDC7BD1D54CE7D101014",
-    "account_id": "18320341426",
-    "name": "ARIYA_¹⁰⁰²⁹⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930450359",
-    "password": "6FE20DAF6EDF6D6BDC072AE6192D0403433FFC063407D4BEDE7018A4EEE21ABC",
-    "account_id": "18320342145",
-    "name": "ARIYA_¹⁵¹¹⁹⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930450663",
-    "password": "E7F8C3839BEC1380C918A512859B54C55F50E68CC9DF2677E8FD3429E81C0AB4",
-    "account_id": "18320342593",
-    "name": "ARIYA_¹⁹⁸²⁸²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930451075",
-    "password": "25658B04761FE268BEA87D7CA1A51F1773AFE8CC212C28095BAF73632C6C645C",
-    "account_id": "18320343227",
-    "name": "ARIYA_¹⁵²³⁵⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930451539",
-    "password": "935FD74FC19A652F980868AB396DAFCD12F067167B1257A7D66E7C0C519BA453",
-    "account_id": "18320343946",
-    "name": "ARIYA_¹²²⁷⁹⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930452015",
-    "password": "BB690450EAD9B21DBF524C80978D7C148035B6D238152440A579F64D78779592",
-    "account_id": "18320344700",
-    "name": "ARIYA_¹²⁹⁶⁹⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930452425",
-    "password": "2FE307EC953EC2BA710361876AF47E80CA9C792355283F8174D5C1A6773DF18C",
-    "account_id": "18320345408",
-    "name": "ARIYA_¹⁴⁹⁵⁰⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930452765",
-    "password": "D05F3C3E640B27E1E5F434E81D63BADDBE878D3CB0557559EE2C8963D3DE6A85",
-    "account_id": "18320345925",
-    "name": "ARIYA_¹⁴⁷⁰⁵⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930453196",
-    "password": "C90B2133508D18E45A01549BF3A30CD8793435A835A2CC86C9ECF2348F224D12",
-    "account_id": "18320346698",
-    "name": "ARIYA_¹⁷⁹⁵³⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930453517",
-    "password": "3939899F85377B31C4BFE6D2D411755B3D652D8F4889B9230B245B7838050861",
-    "account_id": "18320347411",
-    "name": "ARIYA_¹⁸⁶³¹⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930454083",
-    "password": "67DDDF843CDDBA5B5B18925CDD7E416423560CC0A2BD6A1E7081F45829DED243",
-    "account_id": "18320348080",
-    "name": "ARIYA_¹⁵²⁷⁵⁴",
-    "region": "IND"
-  },
-  {
-    "uid": "7930454406",
-    "password": "022A882F608DFE23B993C389831703E4048CBF7AB09A3E2ECB1839CFECE182CB",
-    "account_id": "18320348658",
-    "name": "ARIYA_¹⁷⁵⁰⁵⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930454862",
-    "password": "2A622CA53125902A6052FE3CA617B792C402AB8BC2EB87E0B5132210BB4DD470",
-    "account_id": "18320349558",
-    "name": "ARIYA_¹³⁰³⁵¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930455779",
-    "password": "868F4E7B2F3C5245CBB8AB603B5353669D3E383BF1AE9E899E2933F238A68401",
-    "account_id": "18320350227",
-    "name": "ARIYA_¹⁵⁶⁷⁵⁴",
-    "region": "IND"
-  },
-  {
-    "uid": "7930457041",
-    "password": "0240B573CAFD6F6D8FED8AC264B1698CE142AF7627E798E64457D86E286E325E",
-    "account_id": "18320351507",
-    "name": "ARIYA_¹⁹⁷⁰⁰¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930457669",
-    "password": "4C97B136D0E497E9918BB9C45345CE348FE41D9A7581277AB9DEA53D40521E15",
-    "account_id": "18320352444",
-    "name": "ARIYA_¹⁷⁰¹⁸⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930458352",
-    "password": "A8D4A8908E9A1172AFDC6B2A2C4038D312703318CE0E463CE14E72EEF46D7052",
-    "account_id": "18320353321",
-    "name": "ARIYA_¹⁹⁷⁸⁵⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930458904",
-    "password": "86E29D7938633A8CF1A534594225CBDA4405FB3D4055FF2B61633FF1534D5DB5",
-    "account_id": "18320354265",
-    "name": "ARIYA_¹⁸⁵⁴⁰⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930459520",
-    "password": "8B49B796B600AE18192169CF09301AC24E74178AD91F54B4AC669DA7559BCF6C",
-    "account_id": "18320355493",
-    "name": "ARIYA_¹¹⁸⁴⁶⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930460082",
-    "password": "673593DC08F0BB3AD8564A03F98D4ABE5230C719AB5125D80BCB843922701D29",
-    "account_id": "18320356141",
-    "name": "ARIYA_¹⁶¹³⁹³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930460534",
-    "password": "5369E15F96AC6A0DFDA16B0B9224D880EEC954F4A860DC176DFC16E70C13571E",
-    "account_id": "18320356772",
-    "name": "ARIYA_¹⁵⁴⁹²⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930460904",
-    "password": "D045BCB7B1CA5159D77578D4046A4FBB7FF626FD5DD10D4BEC1B612E46318242",
-    "account_id": "18320357325",
-    "name": "ARIYA_¹²⁰⁴³³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930461351",
-    "password": "BA0B7F18EBF5621ED5046C34E34614577B8F53982FBA11462CA78FA3029C93FA",
-    "account_id": "18320358071",
-    "name": "ARIYA_¹³⁰⁰³⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930461676",
-    "password": "E61AF40BF59C13BF161CB304F88477C3C9F7BF3D7D5AF44904B3F3A12DBC8A5C",
-    "account_id": "18320358561",
-    "name": "ARIYA_¹⁵⁴⁰⁶⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930462250",
-    "password": "0210F2B0789327172D85239EB77F2A4E04076B452DE674028F6E0CDB3EE26519",
-    "account_id": "18320359367",
-    "name": "ARIYA_¹⁴²⁵⁹⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930462776",
-    "password": "D45ACE7D8F497D709210AF66F2FB887D9CA7DC7EA069E1D77C2D65521A53416A",
-    "account_id": "18320360186",
-    "name": "ARIYA_¹⁴⁵⁰²⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930463070",
-    "password": "BC0502245C2C3831A2A9980DF4748870444E73F64C85852AB780317B303D3CA5",
-    "account_id": "18320360724",
-    "name": "ARIYA_¹⁶⁸²³³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930463436",
-    "password": "CB0068330FDC45B5CE3E8AD84E1A9202C2DA1E628F27FC83FF7A2D7773572DBD",
-    "account_id": "18320361376",
-    "name": "ARIYA_¹⁴⁹¹³⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930463827",
-    "password": "1934B5CC0E6D1E5081685237C3B263FE033B50A111E5FC8D4E1E1E295C493BA8",
-    "account_id": "18320362155",
-    "name": "ARIYA_¹²⁷⁷⁵¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930464321",
-    "password": "A1A7CC3CCF62703495D00922BB2A98858F15B41A5B9539F6C2ED930FD1FDCD04",
-    "account_id": "18320363214",
-    "name": "ARIYA_¹⁰⁷⁴³⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930464643",
-    "password": "FFDBCB77CA3CB8FCA98BE130061D9496C954F4F757600C0E1ABF540EC4EC977C",
-    "account_id": "18320363794",
-    "name": "ARIYA_¹⁹⁷⁴¹²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930465070",
-    "password": "54B0723C67E641199B1D131C30E148DEE747DC7FFACE543ABB4F76335794ADFB",
-    "account_id": "18320364566",
-    "name": "ARIYA_¹⁷³⁰¹¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930466194",
-    "password": "F533859CFC7205C71C7CD54EF5684C427F0CC1432FBA5CF144FA185A183ABB7C",
-    "account_id": "18320365280",
-    "name": "ARIYA_¹³⁸¹²⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930467083",
-    "password": "1B5B033CAA3C5673AA46B79ABE1EB3667BA4F91C69A02F8E81C2A56B96E2EC0E",
-    "account_id": "18320366309",
-    "name": "ARIYA_¹⁰⁸³⁸²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930467455",
-    "password": "20FF002E2938201BA1254200DB84691BD156C978AE3F731E376ED21AC9B65542",
-    "account_id": "18320366866",
-    "name": "ARIYA_¹⁹⁰¹⁰⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930468084",
-    "password": "03CC291A190BEDDF087AD89820A8C80D622602D31BA45BB21327E64E8E0A3F61",
-    "account_id": "18320367813",
-    "name": "ARIYA_¹⁶⁹²⁹²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930468465",
-    "password": "DAD333938470228E4913438498307F0EFE2C053F750A23BBC9D9A31D3924BCAA",
-    "account_id": "18320368350",
-    "name": "ARIYA_¹⁰¹⁰⁹⁴",
-    "region": "IND"
-  },
-  {
-    "uid": "7930469015",
-    "password": "F0DD46DB5780892E499EAEE30A955489F328E76B2A9AF8F50B476905A054BBFD",
-    "account_id": "18320369162",
-    "name": "ARIYA_¹⁵⁰¹⁶⁷",
-    "region": "IND"
-  },
-  {
-    "uid": "7930469596",
-    "password": "C8279D33690BA125EC6AB2FEC41D50AFD04B5D4FB63B906735D4BC75C4B33623",
-    "account_id": "18320369978",
-    "name": "ARIYA_¹³⁹⁷⁸⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930470126",
-    "password": "304AFDF63E1733080E0B2D0181049DB6DD1E305D382C424F2CCEEC88F7800046",
-    "account_id": "18320370759",
-    "name": "ARIYA_¹⁹⁵⁸⁷³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930470527",
-    "password": "C4A3C2E776E911614463E03B16D3E43B4B8601DF5916134E45C429735A23EC7F",
-    "account_id": "18320371438",
-    "name": "ARIYA_¹⁷⁶³⁷⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930470914",
-    "password": "F1E90A26CF8C7F016ED73EFF3FB5D7C39F71BEE2A59ADCA1DA7D6F1195BA0625",
-    "account_id": "18320372115",
-    "name": "ARIYA_¹⁴⁹⁷³²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930471451",
-    "password": "810929F0E20EAC632C09AE8DB751D8DE7B7EC1F4604EB244A5EECF26ECA4B99A",
-    "account_id": "18320372910",
-    "name": "ARIYA_¹⁰³⁰³⁴",
-    "region": "IND"
-  },
-  {
-    "uid": "7930471813",
-    "password": "F1680EE40EBD61625627E1BD5C05BB51622B7AAB7674C8888A2275BC7FA28FC8",
-    "account_id": "18320373529",
-    "name": "ARIYA_¹⁷⁴²⁷⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930472225",
-    "password": "CA3D715E4829F9204370CE750E12631C10F1B8E81E670BB50060D6467F6A3B1D",
-    "account_id": "18320374159",
-    "name": "ARIYA_¹⁰⁸⁸⁴³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930472552",
-    "password": "DA2D2288399DCC8AC766EDECC018F696EEF0AA10492294E44C0460ACCC269849",
-    "account_id": "18320374683",
-    "name": "ARIYA_¹⁸¹³²²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930472846",
-    "password": "E7109C4475EEECAEDE2A98B7D12060928BE0C5810591B9D52ADB0F1030D81A3D",
-    "account_id": "18320375193",
-    "name": "ARIYA_¹⁴¹³¹¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930473206",
-    "password": "C65073DF7D356A7D6C1C58999915AA887798581E736DD068F2B5012A761E1AEE",
-    "account_id": "18320375815",
-    "name": "ARIYA_¹⁵⁶⁴³⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930473566",
-    "password": "A9203ECFA90B1F16DF1DC86547A53F4C3C8653AE6A7659C774B2215D0F1971B4",
-    "account_id": "18320376429",
-    "name": "ARIYA_¹²³⁰⁵⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930473859",
-    "password": "D27F35717A242682F6D47088DFBB627F0C9746D7DFA0E00D6BF09D5CE23472B0",
-    "account_id": "18320376872",
-    "name": "ARIYA_¹⁵⁰⁹⁷⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930474336",
-    "password": "6893BB1EE1D68584BCA3DFAFDEE304841A2C0EEF3073E5B7D596174C650F6625",
-    "account_id": "18320377571",
-    "name": "ARIYA_¹⁹⁹⁰⁰⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930474625",
-    "password": "7A7B29E9F1BFFAB0481FA541ADA5A194CDB7E7E637CEA9BD95FBB504E537E3BA",
-    "account_id": "18320378015",
-    "name": "ARIYA_¹⁰³⁰⁰⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930475908",
-    "password": "BDEA4DB2A969656749A47FAE5315E224257C5731C97AFA59C68D47B4FFD1F8C9",
-    "account_id": "18320378991",
-    "name": "ARIYA_¹⁵³⁶⁰⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930476535",
-    "password": "B85FA4F6FB590C701AA7A46C501CD6308E65DCB68027903FD7B4D16193BF540D",
-    "account_id": "18320379935",
-    "name": "ARIYA_¹⁵⁹¹⁸¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930476845",
-    "password": "DA966A5478F6E391B712C1EB289A990A2D466344602060F71947903C75B026C6",
-    "account_id": "18320380427",
-    "name": "ARIYA_¹³⁷⁷⁵³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930477195",
-    "password": "2DF9617A518C4689F72C3583C2C6500962DF7B80A0B27D7298F6F3F5B385B7CF",
-    "account_id": "18320381067",
-    "name": "ARIYA_¹⁶⁶²⁷⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930477686",
-    "password": "C5883E070BE9F2494FC2A0D0A53FD9FEEAD6DE82CB2E69B6997887E0454B7479",
-    "account_id": "18320381774",
-    "name": "ARIYA_¹⁹⁴⁰⁵³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930478092",
-    "password": "4AE3A5AC2C672E63C51CACB905FA5E81056DFE875DFB76AE4E0365322E114908",
-    "account_id": "18320382473",
-    "name": "ARIYA_¹⁴¹⁷⁸³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930478691",
-    "password": "0E5F1C57508404CB5D80102614CCB17C209E10BBFDAF140624F80BA291C4139E",
-    "account_id": "18320383427",
-    "name": "ARIYA_¹⁷⁰²⁵⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930479030",
-    "password": "7CA59244C09CA54C354A89CD8C970367125516FAF5F4B5BDFB48B7FF42BDBD7D",
-    "account_id": "18320384036",
-    "name": "ARIYA_¹²⁵³⁷³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930479560",
-    "password": "E634314CD47FA6FB0FCE5B80F3A9CF8EC5C2130FDADE611DA74FF23136830935",
-    "account_id": "18320384798",
-    "name": "ARIYA_¹⁴²⁷⁶⁷",
-    "region": "IND"
-  },
-  {
-    "uid": "7930480006",
-    "password": "0833F1ABC1ACA09839F554B9B475E44A3BE68885611FFF004B23F8C38CC2CCF4",
-    "account_id": "18320385480",
-    "name": "ARIYA_¹³⁹⁵⁷⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930480327",
-    "password": "9E211F18923EBE238A2744E8CC6168647DCE27C89F88BDBD1B7BF9782B6AA8E3",
-    "account_id": "18320386005",
-    "name": "ARIYA_¹⁸⁸⁶⁵⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930480831",
-    "password": "5B5698EB238F994DA7EDA46CACB9824D88651EEA6B7816DAEC273B2E0882BED0",
-    "account_id": "18320386869",
-    "name": "ARIYA_¹²⁵³⁵⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930481093",
-    "password": "3AF624627E99220474CE496A0DE568C4E5FB42766BCAED89F280051AE950065F",
-    "account_id": "18320387292",
-    "name": "ARIYA_¹⁸⁸⁸¹⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930481494",
-    "password": "4EF2F9B1BD1D03EE8A9C9D54E4D54120A5EFBA317F66811FC1AD8A7A5D0A13D7",
-    "account_id": "18320387942",
-    "name": "ARIYA_¹⁹⁶³⁰⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930481730",
-    "password": "E4141D3A0B087AF8F85AF53A8912C136CCC490626EBBFFAF621319D6E98FEA50",
-    "account_id": "18320388375",
-    "name": "ARIYA_¹⁶⁰⁷⁰⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930482197",
-    "password": "15D4FC0D3C436347C3107B2D18DE4DA0CEA32E922CBD6A0DF99F43C116E8713B",
-    "account_id": "18320389183",
-    "name": "ARIYA_¹⁷⁸⁹¹⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930482557",
-    "password": "3E60129E8842FDAEF3FFC93E2F5F9599F88E843273FD191D68256ACBEB953355",
-    "account_id": "18320389822",
-    "name": "ARIYA_¹⁸³¹⁷⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930482775",
-    "password": "5458BA0A9D8525676A62A22626BDD84CE4CD54340FF100FF8884B3FCBFBA8B0C",
-    "account_id": "18320390217",
-    "name": "ARIYA_¹¹⁹⁸⁹⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930483080",
-    "password": "975697D8ECE6CCCD94CC207042278ABBFFFA8EACF1F15A421D897D9E74B35995",
-    "account_id": "18320390836",
-    "name": "ARIYA_¹⁸⁷¹⁰⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930484305",
-    "password": "4A1B3B2106C5617F3CD1F91DE8FF9559EFDDBE2414DCA6F53E1D828EA17A2A54",
-    "account_id": "18320391816",
-    "name": "ARIYA_¹⁴⁴⁶⁵⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930484898",
-    "password": "DFBA5BAC1DED5A231D9E0E2F1076763F3890D60D503AE7024EFD3DA2D644B992",
-    "account_id": "18320392841",
-    "name": "ARIYA_¹⁵⁷³¹³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930485238",
-    "password": "5BB46C5AFBA2D572FE05F3564A45C533B6E35F897BF8442C5CBDF6DC03E8BFAE",
-    "account_id": "18320393463",
-    "name": "ARIYA_¹⁵⁹¹⁰⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930485519",
-    "password": "8551B13BCDB21AE0A6F0B7038BF7CBF49BC5C3BC9AFE6CC20EB6A32B6B44E02B",
-    "account_id": "18320393964",
-    "name": "ARIYA_¹⁷⁶²⁸⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930485944",
-    "password": "8AB1CEDBC11605BF19A308E14ADA05A0BA2A9D9A2F287F62381703EFDBF1878D",
-    "account_id": "18320394597",
-    "name": "ARIYA_¹⁰¹⁰⁸⁷",
-    "region": "IND"
-  },
-  {
-    "uid": "7930486325",
-    "password": "8C78C55D8FBE8FBED90419FAEC0571047DB18A00521E680A22B48BEA9DFD3130",
-    "account_id": "18320395319",
-    "name": "ARIYA_¹⁰¹³⁷³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930486827",
-    "password": "BFD59E0ADF10EA52E3103F79201A0FE25A23375F819AF2C9EEF34FC6F1C10884",
-    "account_id": "18320396195",
-    "name": "ARIYA_¹⁰⁶⁸⁰²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930487360",
-    "password": "02E8142BD720DE3BCFB6158427DD79C088A5C5F0583C6DE27196838910741566",
-    "account_id": "18320396980",
-    "name": "ARIYA_¹³³⁷⁰¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930487694",
-    "password": "B4F2F579E0B007C9F342093FCDF3389E3F8578E4A481A385F4E73AC22169B7D1",
-    "account_id": "18320397602",
-    "name": "ARIYA_¹²²⁸⁴⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930488031",
-    "password": "3B700B72FE67812002685567F5EE0E92403E4C70F9772FC84852547CCAE08943",
-    "account_id": "18320398171",
-    "name": "ARIYA_¹⁰²⁶⁷⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930488310",
-    "password": "DD158D1E0F95F39AC703F0450EF15D5E1D6C472ED3EA7E6F6C019258D98F6D5C",
-    "account_id": "18320398617",
-    "name": "ARIYA_¹²⁴⁷⁰⁴",
-    "region": "IND"
-  },
-  {
-    "uid": "7930488627",
-    "password": "2DF1EEA42C042DCCFA37863DFE6F0D06F2146A6D7F69C9751BAF855331FC8775",
-    "account_id": "18320399204",
-    "name": "ARIYA_¹⁷²³²⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930488969",
-    "password": "39FF50D7332D5315917CA6BE60B0991D865B4A8833DC56316230B39570893E29",
-    "account_id": "18320399725",
-    "name": "ARIYA_¹³⁰³¹⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930489227",
-    "password": "33EC4E7551F8E5DC82C5F800199AE58201032880E2BD0E262813F924A660233E",
-    "account_id": "18320400189",
-    "name": "ARIYA_¹⁵³⁶²⁹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930489554",
-    "password": "67F29E037BF1B8076AE845A65BBADB4858DAB5FE2B2307A74EDB4806D729975B",
-    "account_id": "18320400764",
-    "name": "ARIYA_¹¹⁶⁶¹⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930489903",
-    "password": "96DC118712BFB4F39793BE08D3BE427FB992546BFBF9FF34ADC48BE9BFC4FE5B",
-    "account_id": "18320401399",
-    "name": "ARIYA_¹⁸⁶²³³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930490151",
-    "password": "3C833594F462B079233CFCE82935DC915C03622EB76B8C85B8ECE3F51B860861",
-    "account_id": "18320401876",
-    "name": "ARIYA_¹⁸⁵⁷⁹⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930490367",
-    "password": "DE0F17A55323168C98B833C0BA05CBFC923E27B50E5CEB67C9E0B4B74E2A4EE1",
-    "account_id": "18320402308",
-    "name": "ARIYA_¹³⁰⁶⁶⁴",
-    "region": "IND"
-  },
-  {
-    "uid": "7930490690",
-    "password": "285360DA77AD0170BC80D309C20D248A50C81376D20F46B91E3B3A20C53A2937",
-    "account_id": "18320403000",
-    "name": "ARIYA_¹⁴⁸⁴⁶⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930491959",
-    "password": "F8FAD9C97BDB4F407DA3F07DD894A9569234A8C4F956ECB5B8B3E60C83F1CD04",
-    "account_id": "18320403952",
-    "name": "ARIYA_¹³⁶⁸¹⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930492456",
-    "password": "4328F5DCB15BDCC532971E734E67D5EC6FBEDE37EFF023EA9E9582381816CCFE",
-    "account_id": "18320404846",
-    "name": "ARIYA_¹⁶⁹⁸⁸⁴",
-    "region": "IND"
-  },
-  {
-    "uid": "7930492899",
-    "password": "49A8E529B4725A94006B41862470CF276D93109C8CB117E630A1DC730D41F54B",
-    "account_id": "18320405630",
-    "name": "ARIYA_¹⁴⁶⁴⁶⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930493194",
-    "password": "387E89E881241FF3D2284DFABE9995A0B75C38D6303E5639BC027A55B0819098",
-    "account_id": "18320406123",
-    "name": "ARIYA_¹⁶⁷²²²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930493495",
-    "password": "6BC30120D791CBA99907B0991026C72FD376F33558962F15656D9969BF74CF80",
-    "account_id": "18320406600",
-    "name": "ARIYA_¹⁵²⁵²⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930493791",
-    "password": "D0F56408CD302D825CF8BF7E5DE732A3B289FCAF649D86D34C8D88A0D49CA994",
-    "account_id": "18320407280",
-    "name": "ARIYA_¹⁴⁷²⁰⁷",
-    "region": "IND"
-  },
-  {
-    "uid": "7930494182",
-    "password": "C2572201EBB4DB61054C088802C69F74DEEFCD183855077DB0466DA87FD8341C",
-    "account_id": "18320407707",
-    "name": "ARIYA_¹³⁵³⁵⁷",
-    "region": "IND"
-  },
-  {
-    "uid": "7930494647",
-    "password": "29E46A4ACABB2F6B3B4E86773F4CBA0C1458FC8ABFA5D3D71BEE82FF435467B2",
-    "account_id": "18320408445",
-    "name": "ARIYA_¹⁴³⁹⁸²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930495144",
-    "password": "BF97B4272DBD5D2F21D3C8A33CCADA733361A621E613F863FF168AECE3408F6A",
-    "account_id": "18320409209",
-    "name": "ARIYA_¹⁷⁵⁹⁴⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930495584",
-    "password": "8673755D68E0438EF4DB233C3ED3FFB349A165646EBD6FEF2D6DDDE64C610AC8",
-    "account_id": "18320410003",
-    "name": "ARIYA_¹⁰⁴⁰²⁷",
-    "region": "IND"
-  },
-  {
-    "uid": "7930495910",
-    "password": "1040A427EC1FD4DD3A5F734BB86DA0A7C927FD4A9481AC86F65D8F32ABD73A4B",
-    "account_id": "18320410648",
-    "name": "ARIYA_¹⁹³⁴⁰⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930496214",
-    "password": "08E4C9D2E9F28A99EFC24A038E37A6945035ED37D67DBFD988049FEF582706E2",
-    "account_id": "18320411152",
-    "name": "ARIYA_¹⁷²⁴¹⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930496557",
-    "password": "758292CE3A08BDFAF04949D7AB292BAF3B66CC24EB7746C2D3328D5A376AC446",
-    "account_id": "18320411768",
-    "name": "ARIYA_¹⁹³⁶⁸²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930496737",
-    "password": "C709FDF4DC15CFDAFD9E99D09CC6D14DDB788022A794B6067A05EC8923B381AC",
-    "account_id": "18320412181",
-    "name": "ARIYA_¹⁰¹⁶⁶²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930497041",
-    "password": "E8717580745AAC85C35549E1FBC644CA3568FCBFADF8CFD13A5C0E89D12F1C3D",
-    "account_id": "18320412841",
-    "name": "ARIYA_¹⁵⁷⁶⁸⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930497275",
-    "password": "933A3BC7B0CBACF6523A0B2B1765C1FA73860FFA259771E3074A4C555762FF5A",
-    "account_id": "18320413354",
-    "name": "ARIYA_¹⁵⁹⁶²⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930497534",
-    "password": "14CEDFE51DBEDDDF837B5A1689ADB86D658CDAAD597A3A6B8A94178F10D1EBAE",
-    "account_id": "18320413998",
-    "name": "ARIYA_¹⁵⁵⁹⁷³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930497969",
-    "password": "AF4262F6D98E0ABDEE915C6E9F3FE0AA20C21BF21F83474D1C279521E78C5D2C",
-    "account_id": "18320414535",
-    "name": "ARIYA_¹⁰⁸⁸⁴¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930498928",
-    "password": "C7C13D8948F9115CEB019F798AB128FB7CF9EFC83518DF4319E32F9D758D2222",
-    "account_id": "18320415484",
-    "name": "ARIYA_¹⁹⁸⁰¹⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930499292",
-    "password": "E3716E76594911D87F4FDF67E9EA2AEE8472802D881AA96C8EECB8320A54AEB9",
-    "account_id": "18320416178",
-    "name": "ARIYA_¹⁹¹³¹⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930499520",
-    "password": "35359F1516A989A9E9886F7A4960689678D85D9B59187D7C5CFB6BAA210C3CAC",
-    "account_id": "18320416591",
-    "name": "ARIYA_¹²²⁶⁷¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930499788",
-    "password": "A3F0F72F5FA474AC69875940967F7FFDD1A547754DC1FACB29ABDA23C8C0741F",
-    "account_id": "18320417088",
-    "name": "ARIYA_¹³⁰⁹¹⁷",
-    "region": "IND"
-  },
-  {
-    "uid": "7930500159",
-    "password": "849A96A17475A740B54B5F1AD63A335573F3C517BEDC5B9BB39E57CD9392B5B5",
-    "account_id": "18320417768",
-    "name": "ARIYA_¹⁴⁰⁶⁰³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930500410",
-    "password": "49852406FC54492259BA844628F2E1C944642F6B1DDBB2D3668854808CEBEB3B",
-    "account_id": "18320418199",
-    "name": "ARIYA_¹⁸⁰⁶⁹¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930500957",
-    "password": "F04E78F08BB93DCAC4B60CCE3AEA39EF253993DAAABC2D891F93F8B48FC48097",
-    "account_id": "18320419133",
-    "name": "ARIYA_¹⁴³⁶⁷⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930501286",
-    "password": "74CD9A3D3804E010E8108B3A3E190D3FBB82F07D12BF0D5D47E36086832EA4D9",
-    "account_id": "18320419699",
-    "name": "ARIYA_¹⁹⁶²⁷⁶",
-    "region": "IND"
-  },
-  {
-    "uid": "7930501557",
-    "password": "750756F460FAB98DFD8151C36905A0D903ED676FE1E3483864282B90077BDCE6",
-    "account_id": "18320420186",
-    "name": "ARIYA_¹⁹⁶⁷⁵⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930501934",
-    "password": "BD99CEB3ED73D255AE8E2B7523A8875240BC3BC19908739CFB92755317948170",
-    "account_id": "18320420874",
-    "name": "ARIYA_¹⁹⁴⁴⁰⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930502283",
-    "password": "312FD349F92656A9018A09FCA2721B75E1FF99CFB50C2F1B0E1579898930AD74",
-    "account_id": "18320421515",
-    "name": "ARIYA_¹⁶⁹⁷¹⁴",
-    "region": "IND"
-  },
-  {
-    "uid": "7930502520",
-    "password": "AFF7BD8424235AAEB488AEA547272B0766EDDB35BF5CA76F22FB92B39CCFDB9E",
-    "account_id": "18320421961",
-    "name": "ARIYA_¹⁰⁴⁶⁴⁷",
-    "region": "IND"
-  },
-  {
-    "uid": "7930502856",
-    "password": "1D292223779D9A8E18861C510D6E3DC76DA2AFECE0D46C5DA1CA0D69A3BDA609",
-    "account_id": "18320422676",
-    "name": "ARIYA_¹⁷¹⁹⁰⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930503147",
-    "password": "606DF5BC701A2B0BBDC17A0CD22C2DD9E4E0F112057CBA8E8D42A9DCA3D14723",
-    "account_id": "18320423128",
-    "name": "ARIYA_¹⁹⁵⁵⁰⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930503473",
-    "password": "12736A63066F04F222F9A03A82A35BC2B4E9EF026F3AC970FD82C815C7A1A8F3",
-    "account_id": "18320423721",
-    "name": "ARIYA_¹³⁷⁵⁴³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930503751",
-    "password": "CBC662F160A7D7EC408E9200A29BB324AB9E35A9B42401667518BCE420FFBF7E",
-    "account_id": "18320424316",
-    "name": "ARIYA_¹⁵³⁴⁰⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930504073",
-    "password": "D0B3027FC6AC07610C92532BF56CFA48930081D9C41888342DCBA340238C8DEC",
-    "account_id": "18320424974",
-    "name": "ARIYA_¹⁴⁷³⁵⁴",
-    "region": "IND"
-  },
-  {
-    "uid": "7930504317",
-    "password": "B090829F5193E892B48D6715143749787B00CE5D3556E66119574E626AD9AA3C",
-    "account_id": "18320425417",
-    "name": "ARIYA_¹²⁹⁶²⁴",
-    "region": "IND"
-  },
-  {
-    "uid": "7930504664",
-    "password": "7BDE905F63C7AF86C363A7C56E90785B8AE186E2EEF5ECAFE26A0FE60553A3A0",
-    "account_id": "18320425999",
-    "name": "ARIYA_¹⁴³⁵⁷²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930505860",
-    "password": "10127B8C54F57247A0548D51C9ADFCDA7FC61E76D7022FBCF8A7BDC031E1ADE4",
-    "account_id": "18320427060",
-    "name": "ARIYA_¹³⁶¹¹⁰",
-    "region": "IND"
-  },
-  {
-    "uid": "7930506194",
-    "password": "246AA8B768612F68C67D050907CEDC422FE91817F32B69873C1DDDEF7D22A736",
-    "account_id": "18320427607",
-    "name": "ARIYA_¹¹⁴⁴⁶⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930506485",
-    "password": "5E774540391B4A99EE512449387CFCAC12BAD6DA14E99B19DD84BADD586335B3",
-    "account_id": "18320428098",
-    "name": "ARIYA_¹²³²²³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930506860",
-    "password": "3998094D4C31BA30FE1012EC33EFAC8399C263385587F3994627D62D865C66F8",
-    "account_id": "18320428779",
-    "name": "ARIYA_¹³⁸³⁷³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930507140",
-    "password": "001307F2C51B83931DE817628F32F8DF4DC466440D64CF0B704DC54E55A52E59",
-    "account_id": "18320429249",
-    "name": "ARIYA_¹⁸²⁸⁴³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930507412",
-    "password": "BB7BB71C7583CD0482B2F44AA546EAF358F7DBF9DED8C5231B4259B0E60EF4CE",
-    "account_id": "18320429753",
-    "name": "ARIYA_¹⁴⁷⁵⁶¹",
-    "region": "IND"
-  },
-  {
-    "uid": "7930507795",
-    "password": "F762034EB5A72064603EC3DF3F4D172AA4E69F957EE89681BD49DCFDB158DF82",
-    "account_id": "18320430343",
-    "name": "ARIYA_¹⁶²³⁶⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930508119",
-    "password": "B34426F32E779A776F11CFBD1BEFFBA7B9B64C483DA377FCA191EC81C554BF72",
-    "account_id": "18320430833",
-    "name": "ARIYA_¹⁹⁹⁹⁷⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930508515",
-    "password": "30A3D1361FF523844DC5EBED4D2343D74E7F07C4A420CC9AE22F75CCAEE73886",
-    "account_id": "18320431497",
-    "name": "ARIYA_¹⁴⁹³⁵²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930508806",
-    "password": "78C6DFD1032930CCF3AA1270D0E0D0E3A938A5662E1A3653BB89718A0C2B9A4A",
-    "account_id": "18320431957",
-    "name": "ARIYA_¹⁷²³⁹⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930509215",
-    "password": "C9DB69CA7020E9BAE7A97653E272DD72F3B1433F5D78CEA8A417CAE2CCADA809",
-    "account_id": "18320432705",
-    "name": "ARIYA_¹⁷⁸⁴⁰⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930509470",
-    "password": "03C0B2E2A403BA2FCEBB72089ECC3915D4A7286D32BA1BA78FDAAEEBEA0730CF",
-    "account_id": "18320433148",
-    "name": "ARIYA_¹³⁰⁹⁶⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930509829",
-    "password": "B53A1118C3626F7A1076D481DD12FFC3C174F2C267FF328538079EBC8FC6E17E",
-    "account_id": "18320433862",
-    "name": "ARIYA_¹⁸¹⁸⁰⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930510128",
-    "password": "573A5C5666FEC32D6C1379BD2BC6D8A98B06A8742DFD0C3ADCB5562982249950",
-    "account_id": "18320434416",
-    "name": "ARIYA_¹³¹⁶¹⁵",
-    "region": "IND"
-  },
-  {
-    "uid": "7930510466",
-    "password": "2C99ACF80AB0F5E81A3FC04AFAA826F7E2A1F1414E04925BC00D72F846016379",
-    "account_id": "18320435024",
-    "name": "ARIYA_¹⁰⁷²¹³",
-    "region": "IND"
-  },
-  {
-    "uid": "7930510728",
-    "password": "54C95441DC5C2E1B26669F4906229FC249F1CECC837193D252A8A5129E5422C0",
-    "account_id": "18320435535",
-    "name": "ARIYA_¹⁸³⁷⁸⁸",
-    "region": "IND"
-  },
-  {
-    "uid": "7930511171",
-    "password": "E01F3F94DFDAFF24A8C3D7FF2768A9936229E47593896A5B6E8A7F652845C915",
-    "account_id": "18320436356",
-    "name": "ARIYA_¹³⁸⁸⁹⁷",
-    "region": "IND"
-  },
-  {
-    "uid": "7930511368",
-    "password": "8F213394A02538F9B330671144F0E8BC55AC44F8574E6589996A4C14754528F2",
-    "account_id": "18320436753",
-    "name": "ARIYA_¹⁹⁹³⁵²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930511612",
-    "password": "0E4BBACF630635FA8988E85F9AD3AAE448FBC0CD1AFB13807D02F70826975206",
-    "account_id": "18320437170",
-    "name": "ARIYA_¹⁶⁸¹³²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930512316",
-    "password": "8D89884CF8125B0626D4D2EFF37975F4C88C8416F4671A1C826C47ADE5C98BBE",
-    "account_id": "18320437912",
-    "name": "ARIYA_¹⁷⁰⁰⁹²",
-    "region": "IND"
-  },
-  {
-    "uid": "7930513187",
-    "password": "75AD4906789AE0CCBA1DBD7B1770F8EC93ADDA6BE5AD4B83BDFDCA1D37FA56C9",
-    "account_id": "18320438968",
-    "name": "ARIYA_¹⁵⁸⁸⁵¹",
-    "region": "IND"
-  }
+    {
+        "uid": "8277956114",
+        "password": "RAJA_0AB24C58EA660522",
+        "account_id": "18729181159",
+        "name": "ARIYA_KNJZPF",
+        "region": "IND",
+        "date_created": "2026-10-15 08:55:43",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277955646",
+        "password": "RAJA_C1D435F17A8C6A9A",
+        "account_id": "18729181154",
+        "name": "ARIYA_TM1IXN",
+        "region": "IND",
+        "date_created": "2026-10-15 08:55:43",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277955603",
+        "password": "RAJA_35A4D82A5DC50BB2",
+        "account_id": "18729181161",
+        "name": "ARIYA_R0BONB",
+        "region": "IND",
+        "date_created": "2026-10-15 08:55:44",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277955587",
+        "password": "RAJA_BFBF546640A9F798",
+        "account_id": "18729181191",
+        "name": "ARIYA_DCMDZN",
+        "region": "IND",
+        "date_created": "2026-10-15 08:55:46",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277956115",
+        "password": "RAJA_2E1EACED9ECD2A27",
+        "account_id": "18729181226",
+        "name": "ARIYA_Z5GUKT",
+        "region": "IND",
+        "date_created": "2026-10-15 08:55:47",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277958930",
+        "password": "RAJA_DA523E942B220BFC",
+        "account_id": "18729184505",
+        "name": "ARIYA_VTBN69",
+        "region": "IND",
+        "date_created": "2026-10-15 08:55:54",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277959038",
+        "password": "RAJA_BCA052D184763EF1",
+        "account_id": "18729184749",
+        "name": "ARIYA_RJURLI",
+        "region": "IND",
+        "date_created": "2026-10-15 08:55:56",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277959216",
+        "password": "RAJA_7AF8CA42BE0448A3",
+        "account_id": "18729184883",
+        "name": "ARIYA_SXICVT",
+        "region": "IND",
+        "date_created": "2026-10-15 08:55:57",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277961494",
+        "password": "RAJA_1CB510087CA453FB",
+        "account_id": "18729190317",
+        "name": "ARIYA_YCYZDX",
+        "region": "IND",
+        "date_created": "2026-10-15 08:56:11",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277962033",
+        "password": "RAJA_4999DF47B4084D05",
+        "account_id": "18729190331",
+        "name": "ARIYA_AWHVMX",
+        "region": "IND",
+        "date_created": "2026-10-15 08:56:13",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277962939",
+        "password": "RAJA_EB7A6DF89D66688B",
+        "account_id": "18729190446",
+        "name": "ARIYA_BEAIWK",
+        "region": "IND",
+        "date_created": "2026-10-15 08:56:14",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277961430",
+        "password": "RAJA_D96BE5B45CF0AE37",
+        "account_id": "18729190272",
+        "name": "ARIYA_YWQGKG",
+        "region": "IND",
+        "date_created": "2026-10-15 08:56:16",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277964683",
+        "password": "RAJA_4E0499C324E3850E",
+        "account_id": "18729192542",
+        "name": "ARIYA_YXTRAZ",
+        "region": "IND",
+        "date_created": "2026-10-15 08:56:17",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277968153",
+        "password": "RAJA_62916B113B4243B8",
+        "account_id": "18729196421",
+        "name": "ARIYA_C7FHQE",
+        "region": "IND",
+        "date_created": "2026-10-15 08:56:25",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277968716",
+        "password": "RAJA_A89363449031A64E",
+        "account_id": "18729196730",
+        "name": "ARIYA_4H4ZKF",
+        "region": "IND",
+        "date_created": "2026-10-15 08:56:27",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277969616",
+        "password": "RAJA_34106990DA921642",
+        "account_id": "18729197158",
+        "name": "ARIYA_AOQPDK",
+        "region": "IND",
+        "date_created": "2026-10-15 08:56:28",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277970071",
+        "password": "RAJA_E0744A29AB1E343E",
+        "account_id": "18729197947",
+        "name": "ARIYA_TA1GXR",
+        "region": "IND",
+        "date_created": "2026-10-15 08:56:30",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277970741",
+        "password": "RAJA_C4C42315476369DE",
+        "account_id": "18729198816",
+        "name": "ARIYA_9BNZJB",
+        "region": "IND",
+        "date_created": "2026-10-15 08:56:31",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277979730",
+        "password": "RAJA_AEC90CDC1C1410FE",
+        "account_id": "18729209540",
+        "name": "ARIYA_9YSFNE",
+        "region": "IND",
+        "date_created": "2026-10-15 08:57:11",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277979838",
+        "password": "RAJA_B65A34D103A22E45",
+        "account_id": "18729211620",
+        "name": "ARIYA_KOR3ZU",
+        "region": "IND",
+        "date_created": "2026-10-15 08:57:20",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277979769",
+        "password": "RAJA_C20CE27E230648FA",
+        "account_id": "18729211395",
+        "name": "ARIYA_NP8B5I",
+        "region": "IND",
+        "date_created": "2026-10-15 08:57:21",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277979438",
+        "password": "RAJA_D634CE1C970897ED",
+        "account_id": "18729211328",
+        "name": "ARIYA_05K2RM",
+        "region": "IND",
+        "date_created": "2026-10-15 08:57:23",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277979132",
+        "password": "RAJA_8AD66D4ACE741750",
+        "account_id": "18729211342",
+        "name": "ARIYA_CWQXDU",
+        "region": "IND",
+        "date_created": "2026-10-15 08:57:25",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277988599",
+        "password": "RAJA_E1D131DD50825570",
+        "account_id": "18729219276",
+        "name": "ARIYA_3RWTNK",
+        "region": "IND",
+        "date_created": "2026-10-15 08:57:30",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277989544",
+        "password": "RAJA_343B3B76A46FF330",
+        "account_id": "18729220360",
+        "name": "ARIYA_KTT6FF",
+        "region": "IND",
+        "date_created": "2026-10-15 08:57:33",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277989717",
+        "password": "RAJA_E49E6F5D82D1F6C8",
+        "account_id": "18729220320",
+        "name": "ARIYA_EZ4FOT",
+        "region": "IND",
+        "date_created": "2026-10-15 08:57:35",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277990269",
+        "password": "RAJA_C13AFB96FE5D2CEB",
+        "account_id": "18729221237",
+        "name": "ARIYA_DPP7BM",
+        "region": "IND",
+        "date_created": "2026-10-15 08:57:39",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277991009",
+        "password": "RAJA_0E9FE1A9DB711679",
+        "account_id": "18729221938",
+        "name": "ARIYA_RBIIXR",
+        "region": "IND",
+        "date_created": "2026-10-15 08:57:40",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277997213",
+        "password": "RAJA_6B7291141D9AF7CC",
+        "account_id": "18729230105",
+        "name": "ARIYA_UOEQ1Z",
+        "region": "IND",
+        "date_created": "2026-10-15 08:58:10",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277996864",
+        "password": "RAJA_FAAAD93A3E2FEF1D",
+        "account_id": "18729230156",
+        "name": "ARIYA_IXXMZZ",
+        "region": "IND",
+        "date_created": "2026-10-15 08:58:12",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277996745",
+        "password": "RAJA_8E7B8E40E767CAB9",
+        "account_id": "18729229784",
+        "name": "ARIYA_YYVXVS",
+        "region": "IND",
+        "date_created": "2026-10-15 08:58:13",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277997309",
+        "password": "RAJA_09C32441B25D5190",
+        "account_id": "18729232406",
+        "name": "ARIYA_SNRNCZ",
+        "region": "IND",
+        "date_created": "2026-10-15 08:58:15",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8277998323",
+        "password": "RAJA_16B13F0283C198B9",
+        "account_id": "18729232490",
+        "name": "ARIYA_5WJOUY",
+        "region": "IND",
+        "date_created": "2026-10-15 08:58:16",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278003032",
+        "password": "RAJA_63E3FBA2F6656E68",
+        "account_id": "18729236467",
+        "name": "ARIYA_XVV28U",
+        "region": "IND",
+        "date_created": "2026-10-15 08:58:21",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278003805",
+        "password": "RAJA_50C5CAB10D6AB464",
+        "account_id": "18729236924",
+        "name": "ARIYA_9NZX7C",
+        "region": "IND",
+        "date_created": "2026-10-15 08:58:23",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278004138",
+        "password": "RAJA_DBB61D0BE7847FBF",
+        "account_id": "18729238087",
+        "name": "ARIYA_6KXQI4",
+        "region": "IND",
+        "date_created": "2026-10-15 08:58:26",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278005039",
+        "password": "RAJA_F4E409B5123E89BA",
+        "account_id": "18729238660",
+        "name": "ARIYA_DUPIUO",
+        "region": "IND",
+        "date_created": "2026-10-15 08:58:28",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278004907",
+        "password": "RAJA_FF637C691CCE46AE",
+        "account_id": "18729238708",
+        "name": "ARIYA_IJKPLY",
+        "region": "IND",
+        "date_created": "2026-10-15 08:58:30",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278014931",
+        "password": "RAJA_D38C027E65260201",
+        "account_id": "18729251102",
+        "name": "ARIYA_BKZA4R",
+        "region": "IND",
+        "date_created": "2026-10-15 08:59:11",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278014892",
+        "password": "RAJA_F47F36F466C1BF95",
+        "account_id": "18729251663",
+        "name": "ARIYA_JDRSHZ",
+        "region": "IND",
+        "date_created": "2026-10-15 08:59:12",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278014885",
+        "password": "RAJA_2B0E0706C2F050D8",
+        "account_id": "18729251476",
+        "name": "ARIYA_TJ0RLS",
+        "region": "IND",
+        "date_created": "2026-10-15 08:59:13",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278014705",
+        "password": "RAJA_1027C85BFEBCCFF5",
+        "account_id": "18729253658",
+        "name": "ARIYA_O18ADJ",
+        "region": "IND",
+        "date_created": "2026-10-15 08:59:15",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278014888",
+        "password": "RAJA_BBC87F01F6E7AE07",
+        "account_id": "18729253659",
+        "name": "ARIYA_JLDI4R",
+        "region": "IND",
+        "date_created": "2026-10-15 08:59:16",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278020054",
+        "password": "RAJA_C7F56FF294FB744D",
+        "account_id": "18729257107",
+        "name": "ARIYA_STEVQB",
+        "region": "IND",
+        "date_created": "2026-10-15 08:59:21",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278020969",
+        "password": "RAJA_B2B5638050602CD9",
+        "account_id": "18729258221",
+        "name": "ARIYA_MSBY5T",
+        "region": "IND",
+        "date_created": "2026-10-15 08:59:24",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278020963",
+        "password": "RAJA_D997B18CF75C8A01",
+        "account_id": "18729258043",
+        "name": "ARIYA_YHJNQN",
+        "region": "IND",
+        "date_created": "2026-10-15 08:59:26",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278021474",
+        "password": "RAJA_92B89A4D0D7B5CE0",
+        "account_id": "18729258684",
+        "name": "ARIYA_IN8EZY",
+        "region": "IND",
+        "date_created": "2026-10-15 08:59:27",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278022282",
+        "password": "RAJA_C945E8942236D5C9",
+        "account_id": "18729259234",
+        "name": "ARIYA_ZKIKYI",
+        "region": "IND",
+        "date_created": "2026-10-15 08:59:29",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278030796",
+        "password": "RAJA_F75960588116CBA3",
+        "account_id": "18729270890",
+        "name": "ARIYA_KU2KXO",
+        "region": "IND",
+        "date_created": "2026-10-15 09:00:11",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278030711",
+        "password": "RAJA_3FB416457A162675",
+        "account_id": "18729271089",
+        "name": "ARIYA_ELP2YT",
+        "region": "IND",
+        "date_created": "2026-10-15 09:00:12",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278031068",
+        "password": "RAJA_5B43D8F3E169B446",
+        "account_id": "18729271098",
+        "name": "ARIYA_VWJRLU",
+        "region": "IND",
+        "date_created": "2026-10-15 09:00:13",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278031031",
+        "password": "RAJA_4E7097C605D8019C",
+        "account_id": "18729271527",
+        "name": "ARIYA_4BOARL",
+        "region": "IND",
+        "date_created": "2026-10-15 09:00:14",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278031186",
+        "password": "RAJA_943F13999007415D",
+        "account_id": "18729271989",
+        "name": "ARIYA_MH5W4D",
+        "region": "IND",
+        "date_created": "2026-10-15 09:00:16",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278036983",
+        "password": "RAJA_1D52D60938795D19",
+        "account_id": "18729277703",
+        "name": "ARIYA_MWAW8P",
+        "region": "IND",
+        "date_created": "2026-10-15 09:00:23",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278037481",
+        "password": "RAJA_58A5073A6FF5B56E",
+        "account_id": "18729278075",
+        "name": "ARIYA_YLNO3K",
+        "region": "IND",
+        "date_created": "2026-10-15 09:00:25",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278038614",
+        "password": "RAJA_96A733099F4028C0",
+        "account_id": "18729279708",
+        "name": "ARIYA_LHLZ9U",
+        "region": "IND",
+        "date_created": "2026-10-15 09:00:29",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278038422",
+        "password": "RAJA_1EC266A7A12ACF02",
+        "account_id": "18729279480",
+        "name": "ARIYA_4NRL0M",
+        "region": "IND",
+        "date_created": "2026-10-15 09:00:30",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278040466",
+        "password": "RAJA_42E8A996400A1A12",
+        "account_id": "18729281519",
+        "name": "ARIYA_QGWAAB",
+        "region": "IND",
+        "date_created": "2026-10-15 09:00:34",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278047597",
+        "password": "RAJA_DB55FE020EF62BC4",
+        "account_id": "18729291533",
+        "name": "ARIYA_4QI4EJ",
+        "region": "IND",
+        "date_created": "2026-10-15 09:01:13",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278047185",
+        "password": "RAJA_B3283CE8376915F6",
+        "account_id": "18729290973",
+        "name": "ARIYA_J1QEXR",
+        "region": "IND",
+        "date_created": "2026-10-15 09:01:14",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278047379",
+        "password": "RAJA_7C28CC66E974163E",
+        "account_id": "18729290562",
+        "name": "ARIYA_UA0DYL",
+        "region": "IND",
+        "date_created": "2026-10-15 09:01:14",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278047980",
+        "password": "RAJA_1D3C1F219C367C39",
+        "account_id": "18729291938",
+        "name": "ARIYA_D0IBUO",
+        "region": "IND",
+        "date_created": "2026-10-15 09:01:15",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278047657",
+        "password": "RAJA_70F27D7744895ABE",
+        "account_id": "18729291711",
+        "name": "ARIYA_MZAK7Y",
+        "region": "IND",
+        "date_created": "2026-10-15 09:01:16",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278054172",
+        "password": "RAJA_ACB98BB99BBDAC29",
+        "account_id": "18729298394",
+        "name": "ARIYA_HZWWQH",
+        "region": "IND",
+        "date_created": "2026-10-15 09:01:25",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278055015",
+        "password": "RAJA_06CBCB438222BB08",
+        "account_id": "18729299145",
+        "name": "ARIYA_ZYDZMB",
+        "region": "IND",
+        "date_created": "2026-10-15 09:01:27",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278055154",
+        "password": "RAJA_CC0F305869D820BE",
+        "account_id": "18729299025",
+        "name": "ARIYA_W9AJLX",
+        "region": "IND",
+        "date_created": "2026-10-15 09:01:28",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278055806",
+        "password": "RAJA_12D1E806C6E15F54",
+        "account_id": "18729299904",
+        "name": "ARIYA_4F9X0W",
+        "region": "IND",
+        "date_created": "2026-10-15 09:01:30",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278055230",
+        "password": "RAJA_9616153CFB16FD9D",
+        "account_id": "18729299716",
+        "name": "ARIYA_I7MUFA",
+        "region": "IND",
+        "date_created": "2026-10-15 09:01:31",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278396327",
+        "password": "RAJA_6490260CF6B95AFB",
+        "account_id": "18729747270",
+        "name": "ARIYA_BNLJC7",
+        "region": "IND",
+        "date_created": "2026-10-15 09:30:12",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278396581",
+        "password": "RAJA_F638560F0F6D0CBD",
+        "account_id": "18729747401",
+        "name": "ARIYA_HU82YF",
+        "region": "IND",
+        "date_created": "2026-10-15 09:30:12",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278397328",
+        "password": "RAJA_B6F754CCF5614E7E",
+        "account_id": "18729750033",
+        "name": "ARIYA_3IY00L",
+        "region": "IND",
+        "date_created": "2026-10-15 09:30:14",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278398240",
+        "password": "RAJA_F7F762A2CCCBA873",
+        "account_id": "18729750152",
+        "name": "ARIYA_0F4MI7",
+        "region": "IND",
+        "date_created": "2026-10-15 09:30:15",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278399216",
+        "password": "RAJA_97A1C14F3B65B53C",
+        "account_id": "18729751131",
+        "name": "ARIYA_F7JXXW",
+        "region": "IND",
+        "date_created": "2026-10-15 09:30:17",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278405077",
+        "password": "RAJA_D9AB3C60A9D0AD9F",
+        "account_id": "18729754544",
+        "name": "ARIYA_RJ6ELO",
+        "region": "IND",
+        "date_created": "2026-10-15 09:30:22",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278405371",
+        "password": "RAJA_D6F8C5A1BF94D503",
+        "account_id": "18729755635",
+        "name": "ARIYA_7VVZCV",
+        "region": "IND",
+        "date_created": "2026-10-15 09:30:25",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278405726",
+        "password": "RAJA_47AA282218E2308A",
+        "account_id": "18729755654",
+        "name": "ARIYA_7AYDAU",
+        "region": "IND",
+        "date_created": "2026-10-15 09:30:27",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278406722",
+        "password": "RAJA_7022C835842DFDDB",
+        "account_id": "18729756414",
+        "name": "ARIYA_4CAIKJ",
+        "region": "IND",
+        "date_created": "2026-10-15 09:30:28",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278406920",
+        "password": "RAJA_E766CB5B36130F70",
+        "account_id": "18729757076",
+        "name": "ARIYA_S5AXEY",
+        "region": "IND",
+        "date_created": "2026-10-15 09:30:30",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278417025",
+        "password": "RAJA_34DECAB4A4357497",
+        "account_id": "18729769764",
+        "name": "ARIYA_TBQYIR",
+        "region": "IND",
+        "date_created": "2026-10-15 09:31:10",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278415969",
+        "password": "RAJA_683368CD3B2A8037",
+        "account_id": "18729769486",
+        "name": "ARIYA_JAYW1J",
+        "region": "IND",
+        "date_created": "2026-10-15 09:31:11",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278416964",
+        "password": "RAJA_E56FFEBECA045CB8",
+        "account_id": "18729771953",
+        "name": "ARIYA_OKCO2V",
+        "region": "IND",
+        "date_created": "2026-10-15 09:31:15",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278416756",
+        "password": "RAJA_14D678DC64A7811A",
+        "account_id": "18729771985",
+        "name": "ARIYA_XZVVQ5",
+        "region": "IND",
+        "date_created": "2026-10-15 09:31:16",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278417371",
+        "password": "RAJA_0E2FCF8FB160FC0C",
+        "account_id": "18729771889",
+        "name": "ARIYA_2QQG6A",
+        "region": "IND",
+        "date_created": "2026-10-15 09:31:18",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278422892",
+        "password": "RAJA_8115DDB1CC30E671",
+        "account_id": "18729776273",
+        "name": "ARIYA_DCCSS6",
+        "region": "IND",
+        "date_created": "2026-10-15 09:31:23",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278423656",
+        "password": "RAJA_82F92354AA821449",
+        "account_id": "18729776606",
+        "name": "ARIYA_REFDBC",
+        "region": "IND",
+        "date_created": "2026-10-15 09:31:24",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278425437",
+        "password": "RAJA_89706861E1F9107D",
+        "account_id": "18729778006",
+        "name": "ARIYA_37ALCP",
+        "region": "IND",
+        "date_created": "2026-10-15 09:31:27",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278424841",
+        "password": "RAJA_244227CC72255100",
+        "account_id": "18729778149",
+        "name": "ARIYA_BXEKLQ",
+        "region": "IND",
+        "date_created": "2026-10-15 09:31:29",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278425872",
+        "password": "RAJA_059088CD4050C693",
+        "account_id": "18729778939",
+        "name": "ARIYA_IM6BAR",
+        "region": "IND",
+        "date_created": "2026-10-15 09:31:31",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278437596",
+        "password": "RAJA_5DAE08BC7D691C29",
+        "account_id": "18729794076",
+        "name": "ARIYA_XSQOX7",
+        "region": "IND",
+        "date_created": "2026-10-15 09:32:12",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278436926",
+        "password": "RAJA_80E853766FA06E3B",
+        "account_id": "18729793043",
+        "name": "ARIYA_8GUWSF",
+        "region": "IND",
+        "date_created": "2026-10-15 09:32:13",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278437612",
+        "password": "RAJA_FE6F6E5BE0523FD1",
+        "account_id": "18729796225",
+        "name": "ARIYA_C2KYUX",
+        "region": "IND",
+        "date_created": "2026-10-15 09:32:15",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278437544",
+        "password": "RAJA_4C778512232E124F",
+        "account_id": "18729796229",
+        "name": "ARIYA_RWJMXW",
+        "region": "IND",
+        "date_created": "2026-10-15 09:32:16",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278439047",
+        "password": "RAJA_DA47AF17DCBAD3B7",
+        "account_id": "18729796312",
+        "name": "ARIYA_OGZBEW",
+        "region": "IND",
+        "date_created": "2026-10-15 09:32:18",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278444813",
+        "password": "RAJA_7AF5525C51C97C42",
+        "account_id": "18729801251",
+        "name": "ARIYA_TIHMQC",
+        "region": "IND",
+        "date_created": "2026-10-15 09:32:25",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278445927",
+        "password": "RAJA_72E7F819F4056AE0",
+        "account_id": "18729802145",
+        "name": "ARIYA_VPPACI",
+        "region": "IND",
+        "date_created": "2026-10-15 09:32:26",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278445292",
+        "password": "RAJA_A1BC1113806415CA",
+        "account_id": "18729801772",
+        "name": "ARIYA_UP2LW0",
+        "region": "IND",
+        "date_created": "2026-10-15 09:32:28",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278446392",
+        "password": "RAJA_E1DA220DC403DD51",
+        "account_id": "18729802497",
+        "name": "ARIYA_0CFLMQ",
+        "region": "IND",
+        "date_created": "2026-10-15 09:32:29",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278460017",
+        "password": "RAJA_D59DFE27ED590E71",
+        "account_id": "18729819511",
+        "name": "ARIYA_CTOPRH",
+        "region": "IND",
+        "date_created": "2026-10-15 09:33:12",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278462536",
+        "password": "RAJA_0D61FFF01D30F060",
+        "account_id": "18729822025",
+        "name": "ARIYA_JXE5WE",
+        "region": "IND",
+        "date_created": "2026-10-15 09:33:13",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    },
+    {
+        "uid": "8278461294",
+        "password": "RAJA_1B46B8806D501DE7",
+        "account_id": "18729821513",
+        "name": "ARIYA_XVSOQO",
+        "region": "IND",
+        "date_created": "2026-10-15 09:33:14",
+        "activated": true,
+        "activation_status": "ACTIVATED",
+        "activation_message": "✅ Account Activated Successfully",
+        "_credit": {
+            "owner": "MASTER",
+            "tg": "@master_ff_01",
+            "channel": "@Masterofficialchannel",
+            "version": "v6.2 PREMIUM",
+            "sig": "5179cc61"
+        }
+    }
 ]
