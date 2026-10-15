@@ -1,6 +1,7 @@
 import json
 import time
 import asyncio
+import httpx
 
 # --- Settings ---
 API_URL = "https://star-jwt-api1.lovable.app/api/public/token"
